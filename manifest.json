@@ -18,14 +18,15 @@
 },
 
 "colors" : {
-
   "ntp_link": [255,255,255],
 
   "ntp_text": [255,255,255],
 
+  "ntp_section": [10, 17, 27],
+
   "ntp_section_link": [255,255,255],
 
-  "ntp_section_text": [10 , 17 , 27],
+  "ntp_section_text": [255, 255, 255],
 
   "ntp_background": [45, 45, 45],
 
@@ -52,8 +53,13 @@
 
   "ntp_background_repeat": "no-repeat"
 
-}
+},
 
+"icons" : {
+  "16" : "images/icon16.png",
+  "48" : "images/icon48.png",
+  "128" : "images/icon128.png"
+}
 }
 
 }
