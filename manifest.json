@@ -1,6 +1,6 @@
 {
 
-"version": "1.2",
+"version": "1.3",
 
 "name": "enso",
 
@@ -44,7 +44,7 @@
 
   "toolbar" : [45, 45, 45],
 
-  "bookmark_text" : [255, 255, 255]
+  "bookmark_text" : [10, 17, 27]
 },
 
 "tints" : {
